@@ -1,0 +1,14 @@
+D:\c#-ass\MVC\3\PL\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\c#-ass\MVC\3\PL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\c#-ass\MVC\3\PL\DAL\bin\Debug\net6.0\DAL.dll
+D:\c#-ass\MVC\3\PL\DAL\bin\Debug\net6.0\DAL.pdb
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.dll
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.pdb
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\c#-ass\MVC\3\PL\DAL\obj\Debug\net6.0\ref\DAL.dll

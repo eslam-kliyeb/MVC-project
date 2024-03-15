@@ -1,0 +1,15 @@
+D:\c#-ass\MVC\3\PL\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\c#-ass\MVC\3\PL\BLL\bin\Debug\net6.0\BLL.dll
+D:\c#-ass\MVC\3\PL\BLL\bin\Debug\net6.0\BLL.pdb
+D:\c#-ass\MVC\3\PL\BLL\bin\Debug\net6.0\DAL.dll
+D:\c#-ass\MVC\3\PL\BLL\bin\Debug\net6.0\DAL.pdb
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.dll
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\BLL.pdb
+D:\c#-ass\MVC\3\PL\BLL\obj\Debug\net6.0\ref\BLL.dll
